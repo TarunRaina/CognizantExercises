@@ -1,10 +1,5 @@
 # Factory Method Pattern Example
 
-## Note
-
-This README was originally written by me. I used AI assistance only to improve the formatting and convert the content into a more readable Markdown document. The implementation, understanding, and explanation of the project are my own.
-
----
 
 ## Problem Statement
 
